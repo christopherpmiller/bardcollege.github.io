@@ -44,9 +44,9 @@ var rules = {
     "I am not interested in names",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "Never apologize. Apologies are for the weak.",
+    "Why be sorry when you can be silly.",
+    "I got a feeling, too, a feeling deep inside.",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
